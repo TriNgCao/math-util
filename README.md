@@ -7,7 +7,7 @@
 * A TDD, DDT source code
 * A CI (Continuous Integration) script
 
-##Screen-shots
+## Screen-shots
 ![JUnit with Maven](https://github.com/TriNgCao/math-util/blob/main/screenshots/JUnit%20with%20Maven.png)
 
 #### &#169; 2024 TriZau
