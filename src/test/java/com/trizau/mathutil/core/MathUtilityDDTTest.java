@@ -39,12 +39,6 @@ class MathUtilityDDTTest {
         assertEquals(expected, MathUtility.getFactorial(n));
     }
 
-//    @ParameterizedTest
-//    @MethodSource("initTestData")
-//    void test(int n, long expected){
-//        assertEquals(expected, MathUtility.getFactorial(n));
-//    }
-
     @ParameterizedTest
     @MethodSource("initTestDataForCheckingExceptions")
     void testFactorialGivenWrongArgumentsRunWell(int n) {
